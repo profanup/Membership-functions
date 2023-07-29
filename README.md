@@ -1,12 +1,28 @@
-# Membership functions
+# This repository contains implementation of various fuzzy membership functions 
+
 Membership functions for fuzzy logic, encoded and plotted in python.
 
 The following membership functions showed are:
 - Pending function
-- Lineal function
-- Triangle function
+- Linear function
+- Triangular function
 - Trapezoidal function
 - Generalized bell function
 - Gaussian function
 
-![Figure_1](https://user-images.githubusercontent.com/39605819/72969382-f8f7ec00-3d8a-11ea-9244-3c3b5f23b3ac.png)
+# How to use code
+
+You can clone repository on your machine. This will get you following two functions:
+
+- membershipFunctions.py  Contains the encoding of various Fuzzy Member Ship functions. 
+- graphics.py             Contains the python code to plot the membership functions  
+
+
+# Prerequisite for execution 
+
+- You require scikit-fuzzy package to be installed on local python environment
+- Coomand line to do this is  : $pip3 install -U scikit-fuzzy
+
+# How to run
+
+- Once you satisfy the resuirement just execute graphics.py to get plots of various membershipFunctions diplayed in grid like plot 
