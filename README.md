@@ -1,6 +1,7 @@
 # This repository contains implementation of various fuzzy membership functions 
+   To know more about Fuzzy Membership functions read this blog : https://codecrucks.com/what-is-fuzzy-membership-function-complete-guide/#:~:text=Formally%2C%20a%20membership%20function%20for,to%20the%20fuzzy%20set%20A.
 
-Membership functions for fuzzy logic, encoded and plotted in python.
+# Follwoig Membership functions for fuzzy logic, encoded and plotted in python.
 
 The following membership functions showed are:
 - Pending function
